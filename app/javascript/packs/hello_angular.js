@@ -6,5 +6,5 @@
 
 require('../hello_angular')
 
-const angular = "Hello from Angular !";
-console.log(angular);
+// const angular = "Hello from Angular !";
+// console.log(angular);
