@@ -5,3 +5,6 @@
 // <%= javascript_pack_tag 'hello_angular' %>
 
 require('../hello_angular')
+
+const angular = "Hello from Angular !";
+console.log(angular);
