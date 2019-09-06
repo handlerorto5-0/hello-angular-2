@@ -15,3 +15,5 @@ require("channels")
 //
 // const images = require.context('../images', true)
 // const imagePath = (name) => images(name, true)
+const webpack = "Hello from Webpack !";
+console.log(webpack);
